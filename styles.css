@@ -17,6 +17,8 @@
   text-decoration: none;
 }
 
+/* Declaração de var's */
+
 :root {
   --clr-neutral-100: hsl(0, 0%, 100%);
   --clr-neutral-500: hsl(0, 0%, 32%);
